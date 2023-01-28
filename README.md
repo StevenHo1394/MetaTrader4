@@ -7,4 +7,5 @@ To do:
 1) login using given account
 2) GUI
 3) login multiple account
-4) trade in real account
+4) add csv download to main program
+5) trade in real account
